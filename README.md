@@ -82,3 +82,34 @@ Output: `[0, 0, 1, 1, 2, 2]`
 Input: `[7, 1, 5, 3, 6, 4]`
 
 Output: `5` (Buy on day 2 (price = 1) and sell on day 5 (price = 6) for a profit of 6 - 1 = 5)
+
+## 7.Rotate Matrix
+
+Given a 2-dimensional matrix of size 'N' x 'M', rotate the elements of the matrix clockwise.
+
+### Example:
+
+Input Matrix:
+[
+[1, 2, 3],
+[4, 5, 6],
+[7, 8, 9]
+]
+
+Output Matrix:
+[
+[4, 1, 2],
+[7, 5, 3],
+[8, 9, 6]
+]
+
+## 8.Merge Intervals
+
+Given a collection of intervals, merge overlapping intervals.
+
+### Example:
+
+Input: `[[1, 3], [2, 6], [8, 10], [15, 18]]`
+
+Output: `[[1, 6], [8, 10], [15, 18]]`
+
