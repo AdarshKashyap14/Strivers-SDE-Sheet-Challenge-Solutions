@@ -72,3 +72,13 @@ Output: `6` (The subarray with the largest sum is `[4, -1, 2, 1]`)
 Input: `[2, 0, 1, 2, 1, 0]`
 
 Output: `[0, 0, 1, 1, 2, 2]`
+
+## 6.Best Time to Buy and Sell Stock
+
+**Problem:** Given an array `prices` representing the daily prices of a stock, find the maximum profit that can be obtained by buying and selling the stock.
+
+### Example:
+
+Input: `[7, 1, 5, 3, 6, 4]`
+
+Output: `5` (Buy on day 2 (price = 1) and sell on day 5 (price = 6) for a profit of 6 - 1 = 5)
