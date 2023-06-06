@@ -39,3 +39,36 @@ Output:
 [1,4,6,4,1]
 ]
 
+## 3.Next Permutation
+
+**Problem:** Given a permutation of numbers, find the next permutation in lexicographic order. If there is no next permutation, return the permutation in ascending order.
+
+### Example:
+
+Input: `[1, 2, 3]`
+
+Output: `[1, 3, 2]`
+
+Input: `[3, 2, 1]`
+
+Output: `[1, 2, 3]`
+
+## 4. Maximum Subarray Sum
+
+**Problem:** Given an array of integers, find the contiguous subarray with the largest sum.
+
+### Example:
+
+Input: `[-2, 1, -3, 4, -1, 2, 1, -5, 4]`
+
+Output: `6` (The subarray with the largest sum is `[4, -1, 2, 1]`)
+
+## 5.Sort 0 1 2
+
+**Problem:** Given an array containing only 0s, 1s, and 2s, sort the array in-place in ascending order.
+
+### Example:
+
+Input: `[2, 0, 1, 2, 1, 0]`
+
+Output: `[0, 0, 1, 1, 2, 2]`
